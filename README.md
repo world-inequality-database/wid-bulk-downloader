@@ -6,7 +6,7 @@ What does the script do? It automates access to WID data, processes and cleans t
 
 Check the READ.ME files before using this tool.
 
-![WID Website Screenshot](./World Inequality Database/code-flowchart.svg)
+![WID Website Screenshot](./code-flowchart.svg)
 
 ## Additional documentation
 
